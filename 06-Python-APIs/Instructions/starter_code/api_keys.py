@@ -1,2 +1,2 @@
 # OpenWeatherMap API Key
-api_key = "YOUR KEY HERE!"
+api_key = "e2da052091aeabc9fb2f9f7d072a9f61"
